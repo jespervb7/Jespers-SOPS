@@ -8,10 +8,14 @@ git add .
 
 Meaning it will add **every** change in your repository currently and immediatly commit and push it. There is no take backsies if you accidently commit something you shouldn't
 
+---
+
 ## Pre-requisites
 
 1. Knowledge of git
 1. Git bash installed on your machine
+
+---
 
 ## Instructions
 
@@ -63,6 +67,8 @@ lazygit "Adding a nice commit message"
 ```
 
 This will run our created function. So it will add **all** changes, commit them with your message and finally push it back to the remote repository
+
+---
 
 ### Getting this to work in VS-Code
 
