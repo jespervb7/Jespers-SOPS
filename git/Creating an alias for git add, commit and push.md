@@ -87,7 +87,9 @@ Essentially we need to add the following code to our settings in VS-Code
 ```
 
 Navigate to your settings and then paste the code above in the settings and save:
+
 ![vscode settings](assets/vscode_navigate_to_settings.png)
+
 ![vscode searching for the right settings](assets/vscode_settings.png)
 
 Now when you run a **new** terminal session your .bash_profile settings should work. Which includes our just created function!
