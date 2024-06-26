@@ -1,3 +1,3 @@
 # Creating an alias for git add, commit and push
 
-![](assets/git bash.png)
+![test](assets/git bash.png)
